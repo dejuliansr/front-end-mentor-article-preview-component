@@ -25,15 +25,16 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ![image](https://github.com/user-attachments/assets/660a016b-d89b-4a75-a777-1a10aa62902d)
 
 - Mobile
+  
 ![image](https://github.com/user-attachments/assets/22fcf317-bf86-4a6f-8e15-7b8ea73e589d)
 
 ### Links
 
-- Live Site URL: [https://dejuliansr.github.io/front-end-mentor-article-preview=component](https://dejuliansr.github.io/front-end-mentor-article-preview=component)
+- Live Site URL: [https://dejuliansr.github.io/front-end-mentor-article-preview-component](https://dejuliansr.github.io/front-end-mentor-article-preview-component)
 
 ## My process
 
-In this challenge I only used HTML and CSS, didn't use any framework so as not to complicate the configuration
+In this challenge I only used HTML, CSS, and JavaScript, didn't use any framework so as not to complicate the configuration
 
 ### Built with
 
